@@ -5,7 +5,7 @@ By leveraging a database of ETFs, built a web applciation for users to analyze t
 ---
 Screenshot of Applciation 
 ---
-## Please navigate to [ETF_Analyzer](https://github.com/Brock-Denton/real-estate_app_buy_then_rent/blob/main/san_francisco_housing.ipynb)
+## Please navigate to [ETF_Analyzer](https://github.com/Brock-Denton/Passive_Investing_App/blob/main/etf_analyzer.ipynb)
 ---
 ## Contributor
 ### Brock Denton, Brockchecksmail@gmail.com 
