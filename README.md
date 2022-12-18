@@ -1,7 +1,6 @@
 # Passive_Investing_App
 Module Challenge 7
 ---
-
 By leveraging a database of ETFs, built a web applciation for users to analyze the performance of their ETFs.    
 ---
 Screenshot of application 
